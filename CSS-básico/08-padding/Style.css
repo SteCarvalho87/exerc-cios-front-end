@@ -1,0 +1,6 @@
+p{
+    margin: 30px 15px;
+    padding: 20px;
+    background-color: aquamarine;
+}
+/* coloquei o backgroun para visualizar melhor o espaçamento interno. Se eu removesse o padding o texto ficaria examento o mesmo tamanho da caixa de cor */

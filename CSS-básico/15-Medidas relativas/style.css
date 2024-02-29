@@ -1,0 +1,25 @@
+html {
+    background-color: #ccc;
+    fontsize: 32px;
+}
+/* 1 em = 16 pixels 
+o em sempre se baseia no tamanho da propriedade do pai. Então 2 em na filha é = 2x o valor que está no pai.
+o rem se baseia nas propriedade da raíz, nesse caso o padrão html e tem sido mais utilizado hoje em dia */
+
+body {
+    background-color: blueviolet;
+    width: 50%;
+    font-size: 2em;
+}
+
+.pai {
+    background-color: #ea80fc;
+    width: 50%;
+    font-size: 2em;
+}
+
+.filha {
+    background-color: #1de9b6;
+    width: 50%;
+    font-size: 2em;
+}
