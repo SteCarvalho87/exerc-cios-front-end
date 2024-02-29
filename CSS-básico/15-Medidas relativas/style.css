@@ -4,7 +4,7 @@ html {
 }
 /* 1 em = 16 pixels 
 o em sempre se baseia no tamanho da propriedade do pai. Então 2 em na filha é = 2x o valor que está no pai.
-o rem se baseia nas propriedade da raíz, nesse caso o padrão html e tem sido mais utilizado hoje em dia */
+o rem se baseia nas propriedade da raíz, nesse caso o padrão html e tem sido mais utilizado hoje em dia.*/
 
 body {
     background-color: blueviolet;
